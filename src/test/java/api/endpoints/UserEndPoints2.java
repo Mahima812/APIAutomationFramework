@@ -68,5 +68,4 @@ public class UserEndPoints2 {
 		return response;
 		
 	}
-
 }
